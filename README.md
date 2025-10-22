@@ -16,3 +16,9 @@ This project aims to **develop a robust predictive model** for BHCT using **mach
 - **Enhances Well Safety** → Better BHCT prediction reduces the risk of **wellbore instability**.
 - **Optimizes Mud Design** → Helps engineers adjust **mud rheology** for efficient heat transfer.
 - **Improves Decision-Making** → Enables real-time **BHCT monitoring** using AI-driven insights.
+
+## **🔹 Project Collaborators**
+- **Chinedu Nwosu**.
+- **Oluchi Ejehu**.
+- **Zainab Iyiola**.
+- **Kayode Sanni**.
